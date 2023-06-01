@@ -1,0 +1,18 @@
+#ignore output directory
+.vs
+Debug
+Release
+Win32
+GeneratedFiles
+ipch
+
+#ignore files generate by MSVS
+*.db
+*.opensdf
+*.opendb
+*.sdf
+*.vcxproj.user
+*.vcxproj
+*.suo
+*.ipch
+*.pro
