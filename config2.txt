@@ -1,0 +1,5 @@
+numThreads=3
+rootDir=E:\\work\\projects\\EveryPixelTest\\test
+BLACK=<%COLOR%>
+Иванов Иван=<%NAME%>
+двадцать пять=<%NUMBER%>

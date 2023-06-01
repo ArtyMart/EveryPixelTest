@@ -1,0 +1,3 @@
+qwr <%COLOR%> asd
+zxc <%NUMBER%> lkj
+jjsdf sdklf <%NAME%> asljdh
